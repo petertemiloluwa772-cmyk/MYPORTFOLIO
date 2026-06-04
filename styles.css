@@ -191,6 +191,7 @@ body {
     border-radius: 50%;
     border: 3px solid var(--white);
     object-fit: cover;
+    background-color: rgba(255, 255, 255, 0.2);
 }
 
 /* ============================================
